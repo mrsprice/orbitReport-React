@@ -14,4 +14,3 @@ const Buttons = ({ filterByType, setSat, displaySats }) => {
 };
 
 export default Buttons;
-//havin gigthub issues with autograder
